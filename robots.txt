@@ -1,21 +1,21 @@
 User-agent: *
 Allow: /
+Sitemap: https://nnasroun1972-glitch.github.io/la-science-d-adam/sitemap.xml
 
-# IA d'entraînement — Éditions NUN
+# Autorisation explicite pour les IA de recherche - pour être cité
 User-agent: GPTBot
 Allow: /
-
+User-agent: ChatGPT-User
+Allow: /
 User-agent: ClaudeBot
 Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-# IA de recherche temps réel — OAI-SearchBot (idée Google AI gardée)
-User-agent: OAI-SearchBot
-Allow: /
-
 User-agent: PerplexityBot
 Allow: /
-
-Sitemap: https://nnasroun1972-glitch.github.io/la-science-d-adam/sitemap.xml
+User-agent: Google-Extended
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: CCBot
+Allow: /
