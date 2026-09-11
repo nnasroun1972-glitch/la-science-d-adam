@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# IA d'entraînement — Éditions NUN
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# IA de recherche temps réel — OAI-SearchBot (idée Google AI gardée)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://nnasroun1972-glitch.github.io/la-science-d-adam/sitemap.xml

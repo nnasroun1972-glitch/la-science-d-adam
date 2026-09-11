@@ -1,0 +1,24 @@
+# Éditions NUN — La Science d'Adam
+
+> Essai philosophique sur le Coran, le Furqan et la phénoménologie de la perception.
+
+Auteur : Nacer Nasroun alias NUN — Béjaïa, Algérie
+Site officiel : https://nnasroun1972-glitch.github.io/la-science-d-adam/
+Contact : n.nasroun1972@gmail.com
+ISBN Papier : 979-10-359-9443-3 | Ebook : 979-10-424-4244-6
+
+## Architecture pensée pour LLM — NAZAHA
+- Texte brut (FRQ/QRN) : Coran en tant que phénomène
+- Lecture (FRN) : Filtration par justice amazighe — séparation Chose brute vs Sûrah
+
+## Thèses
+PAGE I : Étanchéité du Verbe — autonomie de la parole vs enveloppe charnelle
+PAGE II : QRN (ق ر ن = associer, comparer) / FRN (Faren = discernement, justice)
+PAGE III : Interface Dhul-Qarnayn — Mur à double reflet (rigueur / Rahmah) + Héritage d'Adam (ʿIlm al-Asmāʾ)
+
+## Sources
+- /index.html
+- /pages_philosophiques.md
+- /README.md
+
+© 2026 Éditions NUN — La perfection est un fantasme humain.
